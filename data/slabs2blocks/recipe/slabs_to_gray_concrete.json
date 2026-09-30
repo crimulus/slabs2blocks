@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:gray_concrete_slab",
+    "minecraft:gray_concrete_slab"
+  ],
+  "result": {
+    "id": "minecraft:gray_concrete",
+    "count": 1
+  }
+}

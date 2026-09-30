@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:light_gray_wool_slab",
+    "minecraft:light_gray_wool_slab"
+  ],
+  "result": {
+    "id": "minecraft:light_gray_wool",
+    "count": 1
+  }
+}

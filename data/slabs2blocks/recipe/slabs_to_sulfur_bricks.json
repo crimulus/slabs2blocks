@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:sulfur_brick_slab",
+    "minecraft:sulfur_brick_slab"
+  ],
+  "result": {
+    "id": "minecraft:sulfur_bricks",
+    "count": 1
+  }
+}
